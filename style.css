@@ -1,0 +1,49 @@
+h1 {
+  color: purple;
+  text-align: center;
+  font-family: cursive;
+  font-style: normal;
+  font-weight: 1500;
+  font-size: 40px;
+  line-height: 40px;
+}
+
+body {
+  background-image: url(file:///Users/ankitaupadhyay/Desktop/Disney.png); 
+  background-repeat: repeat;
+  background-position: 
+  background-size: 300px 300px; 
+}
+
+div{
+  text-align: center;
+}
+
+
+button {
+  font: 14px "Trebuchet MS", sans-serif;
+  color: white;
+  display: inline-block;
+  padding: 8px 16px;
+  margin: 20px auto;
+  text-decoration: none; 
+  border-radius: 3px;
+  background-color: #80bfff;
+}
+
+button:hover{
+  background-color: orchid;
+  color: black;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+#quoteDisplay{
+ color: white;
+ font-family: cursive;
+ font-weight: 1500;
+}
+
+
+
+
